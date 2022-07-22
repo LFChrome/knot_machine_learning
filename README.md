@@ -4,11 +4,13 @@
 
 ##### [Week 7/19/22-7/26/22]
 Meeting Summarize: 
+
     1. Went through basic ideas of Principle Component Analysis and Singular-Value Decomposition to reduce dimensionality of data. 
     2. Gathered data set and discusessed about this week Todos. 
     3. Might need to learn about other modules (e.g. pytorch, tensorflow, keras, jax) in the future. Scikit-learn is the easiest one to use for now. 
 
 Todo List: 
+
     - [x] Download the dataset (download the .csv/.xls file from **Knot info**.
     - [x] Create a github repository (use folders to organize codes and informations). 
     - [ ] Use Jupyternotebook to import the dataset.
