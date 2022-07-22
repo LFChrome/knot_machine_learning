@@ -1,8 +1,8 @@
-#knot_machine_learning
+# knot_machine_learning
 
-##**Summer2022 Weekly ToDos:**
+## **Summer2022 Weekly ToDos:**
 
-#####[Week 7/19/22-7/26/22]
+##### [Week 7/19/22-7/26/22]
 Meeting Summarize: 
     1. Went through basic ideas of Principle Component Analysis and Singular-Value Decomposition to reduce dimensionality of data. 
     2. Gathered data set and discusessed about this week Todos. 
